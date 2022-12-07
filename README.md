@@ -11,8 +11,8 @@ Provide a short description explaining the what, why, and how of your project. U
 - The project was built to market the benefits of Search Engine Optimization to a target market, and also lay out the products and services that HORISEON provides, displaying problem and solution together to communicate value.  
 - What problem does it solve?
 
-- What did you learn?
-
+- During this project, I learned many new things, including:
+    -How to create github repositories and initialize them with my local machine.
 - What did you learn?
 
 ## Table of Contents (Optional)
