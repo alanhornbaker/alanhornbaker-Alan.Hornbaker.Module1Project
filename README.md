@@ -13,13 +13,21 @@ Provide a short description explaining the what, why, and how of your project. U
 
 - During this project, I learned many new things, including:
     -How to create github repositories and initialize them with my local machine.
-- What did you learn?
+    --Learned about putting the theories of git/github into practice.  
+	Creating and initializing repositories,staging commits, pushing to repository,
+	etc, to have functional version control.
 
-## Table of Contents (Optional)
+	-Learned about semantic HTML elements, structuring the file logically. etc.
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
+	-Played around with making changes to the HTML file to adjust the structure
+	of the webpage, and the CSS file to adjust the style of the webpage.
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+	-Assessed the purpose of the webpage, made bonus changes to stlying sheets to
+	draw more attention to the name of the company, and how it ties in with their
+	products and services. (Adjusted color of "SEO" in the main header to be darker
+	and bring out the contrast, drawing more attention to the acronym.
+	The original wasn't different enough to easily draw the users attention to that
+	feature of the website.
+
+## Screenshots of Webpage
+

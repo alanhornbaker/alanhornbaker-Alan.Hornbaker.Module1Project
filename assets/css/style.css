@@ -19,7 +19,8 @@ body {
     display: inline-block;
     font-size: 48px;
 }
-
+/* Made the color darker to contrast more with the rest of the title text, make it more visibly obvious
+that we are trying to draw attention to the SEO acronym.*/
 .header h1 .seo {
     color: #dfd7d788;
 }
